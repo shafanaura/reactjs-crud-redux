@@ -1,0 +1,8 @@
+{
+  "users":[
+		{ "id": 1, "nama": "Shafa Naura", "alamat": "Tamanan", "umur": "19" },
+		{ "id": 2, "nama": "Nisrina Agitya", "alamat": "Sobontoro", "umur": "23" },
+		{ "id": 3, "nama": "Titis Aulia", "alamat": "Karangwaru", "umur": "14" },
+		{ "id": 4, "nama": "Hemas Salsabila", "alamat": "Jepun", "umur": "20" },
+  ]
+}
